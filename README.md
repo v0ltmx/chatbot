@@ -1,5 +1,5 @@
-# chatbotChallenge
-# utilizando o bot alice - aimls
+# chatbot - IC challenge :zap:
+ utilizando o bot alice - aimls
 - Tips
 User: My name is Lucas
 BotGaladiano: .... "response"
