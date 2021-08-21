@@ -3,11 +3,7 @@ import java.io.File;
 import org.alicebot.ab.*;
 import org.alicebot.ab.utils.*;
 
-
-
-
-public class VmxCB {
-	    
+public class VmxCB {	    
 	    private static final boolean TRACE_MODE=false;
 	    public static void main(String args[]){
 	        String textline="";
